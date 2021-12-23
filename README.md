@@ -1,3 +1,2 @@
 # web1
-
-This is first page using HTML, CSS
+HTML, CSS를 처음 배우고 만들어본 사이트입니다
